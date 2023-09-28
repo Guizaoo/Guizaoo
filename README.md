@@ -10,11 +10,11 @@
 </div>
 &nbsp;
 
-Olá me chamo [Guilherme Dias](https://www.linkedin.com/in/guilherme-dias-0ba202230/) Sou desenvolvedor web
+Olá me chamo [Guilherme Dias](https://www.linkedin.com/in/guilherme-dias-0ba202230/) Sou desenvolvedor Back-end
 
 
 ## 👨‍🚀 Um pouco mais sobre mim
-- 👨‍💻 Tenho 19 anos
+- 👨‍💻 Tenho 20 anos
 - 🖥️ Fascinado por desenvolvimento web
 - 🚀 Buscando sempre aprender cada dia mais
 
