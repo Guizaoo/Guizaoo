@@ -14,7 +14,7 @@ Olá me chamo [Guilherme Dias](https://www.linkedin.com/in/guilherme-dias-0ba202
 
 
 ## 👨‍🚀 Um pouco mais sobre mim
-- 👨‍💻 Tenho 20 anos
+- 👨‍💻 Tenho 21 anos
 - 🖥️ Fascinado por Back-end
 - 🚀 Buscando sempre aprender cada dia mais
 
