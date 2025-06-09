@@ -49,5 +49,6 @@
 ### ⚡ Curiosidade com estilo
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Apaixonado+por+Back-end;Sempre+em+busca+de+evoluir!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=400&lines=Desenvolvedor+Full+Stack" />
 </div>
+
