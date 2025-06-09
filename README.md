@@ -29,7 +29,7 @@
 
 - 👨‍🎓 Tenho 22 anos  
 - ⚙️ Desenvolvedor **Full Stack** com foco em Back-end  
-- 📚 Estudando **Arquitetura de Software** na pós-graduação  
+- 📚 Estudando **Arquitetura de Software** na Descomplica
 - 🚀 Buscando sempre aprender e evoluir  
 - 💡 Amante de soluções criativas e bem estruturadas  
 - 💬 Curioso por boas conversas técnicas  
