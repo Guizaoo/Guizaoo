@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello, World!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, World! 👋
 
 <div align="center"> 
   <a href="https://www.instagram.com/guuiidias_/" target="_blank">
@@ -20,28 +20,44 @@
 
 ---
 
-### 👋 Olá! Sou o [Guilherme Dias](https://www.linkedin.com/in/guilherme-dias-0ba202230/)
+### 🧑‍💻 Sobre mim
 
-Sou **Desenvolvedor Full Stack**, apaixonado por tecnologia e sempre em busca de evoluir meus conhecimentos e habilidades.
+<img align="right" height="170" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
----
-
-### 👨‍🚀 Sobre mim
-
-- 👨‍💻 Tenho 22 anos  
-- 💻 Fascinado por **Back-end**, mas também atuo com Front-end  
-- 🚀 Aprendizado constante é meu lema  
-- 📍 Estudando **Arquitetura de Software** na pós-graduação  
+- 👨‍🎓 Tenho 22 anos  
+- ⚙️ Desenvolvedor **Full Stack** com foco em Back-end  
+- 📚 Estudando **Arquitetura de Software** na pós-graduação  
+- 🚀 Buscando sempre aprender e evoluir  
+- 💡 Amante de soluções criativas e bem estruturadas  
+- 💬 Curioso por boas conversas técnicas  
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-<div style="display: inline_block">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+### 💻 Tecnologias e Ferramentas
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="VSCode" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guuiidias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guuiidias&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+### ⚡ Curiosidade com estilo
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Apaixonado+por+Back-end;Sempre+em+busca+de+evoluir!" />
 </div>
